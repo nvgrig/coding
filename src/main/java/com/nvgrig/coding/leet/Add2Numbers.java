@@ -15,7 +15,7 @@ public class Add2Numbers {
             int l1val = currentL1 == null ? 0 : currentL1.val;
             int l2val = currentL2 == null ? 0 : currentL2.val;
             int sum = l1val + l2val;
-            ListNode currentL3 = null;
+            ListNode currentL3;
             if (sum > 8) {
                 int l3val = sum + (needToAddOne ? 1 : 0);
                 if (l3val > 9) {

@@ -1,4 +1,4 @@
-package com.nvgrig.coding.add2numbers;
+package com.nvgrig.coding.leet;
 
 import com.nvgrig.coding.leet.Add2Numbers;
 import com.nvgrig.coding.leet.ListNode;
