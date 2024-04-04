@@ -1,7 +1,5 @@
 package com.nvgrig.coding.leet;
 
-import com.nvgrig.coding.leet.Add2Numbers;
-import com.nvgrig.coding.leet.ListNode;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

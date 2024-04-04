@@ -7,8 +7,8 @@ public class ChessPuzzle {
 
 
     private static class Square {
-        private int i;
-        private int j;
+        private final int i;
+        private final int j;
 
 
         public Square(int i, int j) {
@@ -33,10 +33,10 @@ public class ChessPuzzle {
     }
 
 
-    private static Set<Square> chessBoard = new HashSet<>();
+    private static final Set<Square> chessBoard = new HashSet<>();
 
 
-    private static Set<Square> figuresPositions = new HashSet<>();
+    private static final Set<Square> figuresPositions = new HashSet<>();
 
 
     static {
