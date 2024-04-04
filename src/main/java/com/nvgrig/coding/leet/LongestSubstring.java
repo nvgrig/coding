@@ -1,4 +1,4 @@
-package com.nvgrig.coding.longestsubstring;
+package com.nvgrig.coding.leet;
 
 import java.util.*;
 

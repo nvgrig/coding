@@ -1,4 +1,4 @@
-package com.nvgrig.coding.add2numbers;
+package com.nvgrig.coding.leet;
 
 import java.util.Objects;
 
